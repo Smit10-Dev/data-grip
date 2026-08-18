@@ -1,0 +1,7 @@
+# Default behavior
+# Project-specific overrides
+*.yaml linguist-detectable=false
+public/index.html linguist-vendored
+**/*.py linguist-detectable
+*.bat text eol=crlf
+*.py linguist-detectable
